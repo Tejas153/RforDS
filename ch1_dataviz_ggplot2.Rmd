@@ -8,7 +8,7 @@ output:
 
 # Introduction
 
-Load `tidyverse` library. Install if it needed.
+Load `tidyverse` library. Install if needed.
 
 
 ```{r}
